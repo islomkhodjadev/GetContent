@@ -87,14 +87,14 @@ async def add_ai_data(heading, content, categories):
 
         # Insert data into the ai_data table
         ai_data_id = await connection.fetchval(
-            "INSERT INTO ai_data (heading, content) VALUES ($1, $2) RETURNING id",
+            "INSERT INTO api_aidata (heading, content) VALUES ($1, $2) RETURNING id",
             heading,
             content,
         )
 
         # Get category IDs for the provided category names
         existing_categories = await connection.fetch(
-            "SELECT id, name FROM category WHERE name = ANY($1)", categories
+            "SELECT id, name FROM api_category WHERE name = ANY($1)", categories
         )
         existing_categories_dict = {
             row["name"]: row["id"] for row in existing_categories
@@ -106,7 +106,7 @@ async def add_ai_data(heading, content, categories):
         ]
         if new_categories:
             rows = await connection.fetch(
-                "INSERT INTO category (name) VALUES ($1) ON CONFLICT (name) DO NOTHING RETURNING id, name",
+                "INSERT INTO api_category (name) VALUES ($1) ON CONFLICT (name) DO NOTHING RETURNING id, name",
                 new_categories,
             )
             for row in rows:
@@ -115,7 +115,7 @@ async def add_ai_data(heading, content, categories):
         # Create relationships in the ai_data_categories table
         category_ids = [existing_categories_dict[cat] for cat in categories]
         await connection.executemany(
-            "INSERT INTO ai_data_categories (ai_data_id, category_id) VALUES ($1, $2)",
+            "INSERT INTO api_aidata_categories (aidata_id, category_id) VALUES ($1, $2)",
             [(ai_data_id, cat_id) for cat_id in category_ids],
         )
 

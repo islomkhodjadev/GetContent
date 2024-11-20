@@ -35,7 +35,6 @@ async def command_start_handler(channel_post: Message) -> None:
             # Extract domain from the URL
             parsed_url = urlparse(message.url)
             domain = parsed_url.netloc
-
             # Check if the domain matches the specific one
             if domain != SPECIFIC_DOMAIN:
 
@@ -43,7 +42,6 @@ async def command_start_handler(channel_post: Message) -> None:
 
             # Proceed if the domain matches
             scraped_data = await scrape_article_data(message.url)
-
             if "error" not in scraped_data:
                 result = await add_ai_data(
                     heading=scraped_data["title"],
