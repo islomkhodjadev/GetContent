@@ -22,26 +22,45 @@ TOKEN = getenv("tg_token")
 
 dp = Dispatcher()
 
+import re
+
 
 @dp.channel_post()
 async def command_start_handler(channel_post: Message) -> None:
-    data = (
-        channel_post.caption_entities
-        if channel_post.caption_entities is not None
-        else []
-    )
-    for message in data:
-        if message.url is not None:
+    urls = []
+
+    # Process URLs from caption_entities
+    if channel_post.caption_entities:
+        for entity in channel_post.caption_entities:
+            if hasattr(entity, "url") and entity.url:  # Ensure the URL attribute exists
+                parsed_url = urlparse(entity.url)
+                domain = parsed_url.netloc
+
+                # Check if the domain matches the specific one
+                if domain == SPECIFIC_DOMAIN:
+                    urls.append(entity.url)
+
+    # Process URLs directly from caption
+    if channel_post.caption:
+        urls += re.findall(r"https?://\S+", channel_post.caption)
+
+    # Remove duplicates
+    urls = list(set(urls))
+
+    for url in urls:
+        if url is not None:
             # Extract domain from the URL
-            parsed_url = urlparse(message.url)
+            parsed_url = urlparse(url)
             domain = parsed_url.netloc
+
             # Check if the domain matches the specific one
             if domain != SPECIFIC_DOMAIN:
 
                 continue  # Skip this URL and move to the next one
 
             # Proceed if the domain matches
-            scraped_data = await scrape_article_data(message.url)
+            scraped_data = await scrape_article_data(url)
+
             if "error" not in scraped_data:
                 result = await add_ai_data(
                     heading=scraped_data["title"],
