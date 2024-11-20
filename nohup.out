@@ -34,3 +34,4 @@ Traceback (most recent call last):
   File "/home/ttc-user/.local/lib/python3.10/site-packages/pydantic/_internal/_core_utils.py", line 129, in get_ref
     return s.get('ref', None)
 KeyboardInterrupt
+Received SIGTERM signal
