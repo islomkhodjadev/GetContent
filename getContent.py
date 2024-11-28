@@ -62,9 +62,10 @@ async def command_start_handler(channel_post: Message) -> None:
             scraped_data = await scrape_article_data(url)
 
             if "error" not in scraped_data:
+                # title and content + url
                 result = await add_ai_data(
-                    heading=scraped_data["title"],
-                    content=scraped_data["content"],
+                    heading=scraped_data["title"] + f"\n url: {url}",
+                    content=scraped_data["content"] + f"\n url: {url}",
                     categories=scraped_data["categories"],
                 )
 
