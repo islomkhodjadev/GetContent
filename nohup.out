@@ -35,3 +35,634 @@ Traceback (most recent call last):
     return s.get('ref', None)
 KeyboardInterrupt
 Received SIGTERM signal
+Failed to fetch updates - TelegramRetryAfter: Telegram server says - Flood control exceeded on method 'GetUpdates'. Retry in 5 seconds.
+Original description: Too Many Requests: retry after 5
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramRetryAfter: Telegram server says - Flood control exceeded on method 'GetUpdates'. Retry in 5 seconds.
+Original description: Too Many Requests: retry after 5
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+Sleep for 1.454843 seconds and try again... (tryings = 1, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.930063 seconds and try again... (tryings = 2, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 104] Connection reset by peer
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 104] Connection reset by peer
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.374532 seconds and try again... (tryings = 1, bot id = 8014895232)
+Failed to fetch updates - TelegramRetryAfter: Telegram server says - Flood control exceeded on method 'GetUpdates'. Retry in 5 seconds.
+Original description: Too Many Requests: retry after 5
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramRetryAfter: Telegram server says - Flood control exceeded on method 'GetUpdates'. Retry in 5 seconds.
+Original description: Too Many Requests: retry after 5
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+Sleep for 1.287851 seconds and try again... (tryings = 1, bot id = 8014895232)
+Failed to fetch updates - TelegramRetryAfter: Telegram server says - Flood control exceeded on method 'GetUpdates'. Retry in 5 seconds.
+Original description: Too Many Requests: retry after 5
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+Sleep for 1.633668 seconds and try again... (tryings = 2, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.904576 seconds and try again... (tryings = 3, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 2.625499 seconds and try again... (tryings = 4, bot id = 8014895232)
+Failed to fetch updates - TelegramRetryAfter: Telegram server says - Flood control exceeded on method 'GetUpdates'. Retry in 5 seconds.
+Original description: Too Many Requests: retry after 5
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramRetryAfter: Telegram server says - Flood control exceeded on method 'GetUpdates'. Retry in 5 seconds.
+Original description: Too Many Requests: retry after 5
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+Sleep for 1.161179 seconds and try again... (tryings = 1, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.444515 seconds and try again... (tryings = 2, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.972298 seconds and try again... (tryings = 3, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.343459 seconds and try again... (tryings = 1, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.355790 seconds and try again... (tryings = 1, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramRetryAfter: Telegram server says - Flood control exceeded on method 'GetUpdates'. Retry in 5 seconds.
+Original description: Too Many Requests: retry after 5
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramRetryAfter: Telegram server says - Flood control exceeded on method 'GetUpdates'. Retry in 5 seconds.
+Original description: Too Many Requests: retry after 5
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+Sleep for 1.325089 seconds and try again... (tryings = 1, bot id = 8014895232)
+Failed to fetch updates - TelegramRetryAfter: Telegram server says - Flood control exceeded on method 'GetUpdates'. Retry in 5 seconds.
+Original description: Too Many Requests: retry after 5
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+Sleep for 1.727499 seconds and try again... (tryings = 2, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 2.267396 seconds and try again... (tryings = 3, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Received SIGTERM signal
+Traceback (most recent call last):
+  File "/home/ttc-user/GetContent/getContent.py", line 6, in <module>
+    from aiogram import Bot, Dispatcher, html
+ModuleNotFoundError: No module named 'aiogram'
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+Sleep for 1.435270 seconds and try again... (tryings = 1, bot id = 8014895232)
+Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Sleep for 1.789858 seconds and try again... (tryings = 2, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 104] Connection reset by peer
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramRetryAfter: Telegram server says - Flood control exceeded on method 'GetUpdates'. Retry in 5 seconds.
+Original description: Too Many Requests: retry after 5
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.495333 seconds and try again... (tryings = 1, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.992058 seconds and try again... (tryings = 2, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.508192 seconds and try again... (tryings = 1, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.374205 seconds and try again... (tryings = 1, bot id = 8014895232)
+Failed to fetch updates - TelegramRetryAfter: Telegram server says - Flood control exceeded on method 'GetUpdates'. Retry in 5 seconds.
+Original description: Too Many Requests: retry after 5
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramRetryAfter: Telegram server says - Flood control exceeded on method 'GetUpdates'. Retry in 5 seconds.
+Original description: Too Many Requests: retry after 5
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+Sleep for 1.399169 seconds and try again... (tryings = 1, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.986309 seconds and try again... (tryings = 2, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.234452 seconds and try again... (tryings = 1, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramRetryAfter: Telegram server says - Flood control exceeded on method 'GetUpdates'. Retry in 5 seconds.
+Original description: Too Many Requests: retry after 5
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramRetryAfter: Telegram server says - Flood control exceeded on method 'GetUpdates'. Retry in 5 seconds.
+Original description: Too Many Requests: retry after 5
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+Sleep for 1.395563 seconds and try again... (tryings = 1, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.714713 seconds and try again... (tryings = 2, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.294416 seconds and try again... (tryings = 1, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.347058 seconds and try again... (tryings = 1, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramRetryAfter: Telegram server says - Flood control exceeded on method 'GetUpdates'. Retry in 5 seconds.
+Original description: Too Many Requests: retry after 5
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.218648 seconds and try again... (tryings = 1, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.503049 seconds and try again... (tryings = 2, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 2.065748 seconds and try again... (tryings = 3, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 2.599818 seconds and try again... (tryings = 4, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 3.247621 seconds and try again... (tryings = 5, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 4.264620 seconds and try again... (tryings = 6, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 4.933620 seconds and try again... (tryings = 7, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 4.837774 seconds and try again... (tryings = 8, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 4.966241 seconds and try again... (tryings = 9, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 4.967691 seconds and try again... (tryings = 10, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 4.963243 seconds and try again... (tryings = 11, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 4.915739 seconds and try again... (tryings = 12, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 5.061453 seconds and try again... (tryings = 13, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 4.962218 seconds and try again... (tryings = 14, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 5.051349 seconds and try again... (tryings = 15, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 5.022714 seconds and try again... (tryings = 16, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 4.910638 seconds and try again... (tryings = 17, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 4.929101 seconds and try again... (tryings = 18, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 4.985507 seconds and try again... (tryings = 19, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 4.996692 seconds and try again... (tryings = 20, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 5.170273 seconds and try again... (tryings = 21, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 5.018932 seconds and try again... (tryings = 22, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 5.002913 seconds and try again... (tryings = 23, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 5.007043 seconds and try again... (tryings = 24, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.402337 seconds and try again... (tryings = 1, bot id = 8014895232)
+Failed to fetch updates - TelegramRetryAfter: Telegram server says - Flood control exceeded on method 'GetUpdates'. Retry in 5 seconds.
+Original description: Too Many Requests: retry after 5
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramRetryAfter: Telegram server says - Flood control exceeded on method 'GetUpdates'. Retry in 5 seconds.
+Original description: Too Many Requests: retry after 5
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+Sleep for 1.218835 seconds and try again... (tryings = 1, bot id = 8014895232)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.479076 seconds and try again... (tryings = 2, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 104] Connection reset by peer
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8014895232)
